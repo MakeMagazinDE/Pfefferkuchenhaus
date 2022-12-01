@@ -10,6 +10,6 @@ ein etwas aufgemotztes Ikea-Pfefferkuchehaus wird zum weihnachtlichen Smarthome.
 
 ![Picture](https://github.com/MakeMagazinDE/Pfefferkuchenhaus/blob/main/Aufmacher.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 6/22 ab Seite 10](https://www.heise.de/select/make/2022/6/XXXXXXX) ** zu lesen
+Den vollständigen Artikel mit der Bauanleitung gibt es **[online](https://heise.de/-7361412) ** zu lesen
 
 
